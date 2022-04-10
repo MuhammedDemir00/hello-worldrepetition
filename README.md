@@ -1,2 +1,2 @@
 # hello-worldrepetition
-repetition for me to check if i still now how to use github
+repetition for me to check if i still know how to use github
